@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["ratton_core", "ratton_daemon"]
